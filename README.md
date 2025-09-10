@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**MrrrrrM/MrrrrrM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<img src="./img/knight-is-writing.gif" align="right">
+  </div>
+<li>
+ <b>Name:</b> Mikhail</li>
+<li>
+<b>Loves:</b> movies, music, games
+</li>
+<li>
+<b>Spotify:</b> <a href="https://open.spotify.com/user/31rwhwsisk5jtdlnybfthbaqm5ya?si=a1e9962d87954adf">my profile</a>
+</li>
+<li>
+<b>Hobbys:</b> gym, chess, reading
+</li>
+<br><br><br>
+</div>
