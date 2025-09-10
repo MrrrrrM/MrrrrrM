@@ -1,7 +1,7 @@
 <div>
   <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-    <img src="./img/knight-is-writing.gif" align="right">
+    <img src="./img/knight-is-writing.gif" width="400" height="225" align="right">
   </div>
   <div class="about-list">
     <li><b>Name:</b> Mikhail</li>
