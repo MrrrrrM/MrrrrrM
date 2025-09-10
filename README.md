@@ -11,12 +11,3 @@
   </div>
   <br><br><br>
 </div>
-<style>
-.about-list {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-  height: 300px;
-}
-</style>
